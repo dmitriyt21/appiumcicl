@@ -11,7 +11,7 @@
 			<class name="com.qa.runners.SonyTestNGRunnerTest"/>
 		</classes>
 	</test>
-	<test name="sm910">
+<!-- 	<test name="sm910">
 		<parameter name="platformName" value="Android" />
 		<parameter name="udid" value="4100d1bde4b1a193" />
 		<parameter name="deviceName" value="sm910" />
@@ -20,5 +20,5 @@
 		<classes>
 			<class name="com.qa.runners.Sm910TestNGRunnerTest"/>
 		</classes>
-	</test>
+	</test> -->
 </suite> <!-- Suite -->
