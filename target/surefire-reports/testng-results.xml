@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="76214" started-at="2022-08-31T16:45:22 EDT" finished-at="2022-08-31T16:46:38 EDT">
+  <suite name="Suite" duration-ms="73252" started-at="2022-08-31T20:30:39 EDT" finished-at="2022-08-31T20:31:52 EDT">
     <groups>
       <group name="cucumber">
         <method signature="RunnerBase.scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" class="com.qa.runners.RunnerBase"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="sony" duration-ms="76214" started-at="2022-08-31T16:45:22 EDT" finished-at="2022-08-31T16:46:38 EDT">
+    <test name="sony" duration-ms="73252" started-at="2022-08-31T20:30:39 EDT" finished-at="2022-08-31T20:31:52 EDT">
       <class name="com.qa.runners.SonyTestNGRunnerTest">
-        <test-method status="PASS" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="setUpClass" is-config="true" duration-ms="27289" started-at="2022-08-31T16:45:22 EDT" finished-at="2022-08-31T16:45:49 EDT">
+        <test-method status="PASS" signature="setUpClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="setUpClass" is-config="true" duration-ms="27566" started-at="2022-08-31T20:30:39 EDT" finished-at="2022-08-31T20:31:06 EDT">
           <params>
             <param index="0">
               <value>
@@ -51,7 +51,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="10885" started-at="2022-08-31T16:45:49 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T16:46:00 EDT">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="9317" started-at="2022-08-31T20:31:06 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T20:31:16 EDT">
           <params>
             <param index="0">
               <value>
@@ -67,7 +67,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="9470" started-at="2022-08-31T16:46:00 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T16:46:10 EDT">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="8815" started-at="2022-08-31T20:31:16 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T20:31:25 EDT">
           <params>
             <param index="0">
               <value>
@@ -83,7 +83,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="11817" started-at="2022-08-31T16:46:10 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T16:46:21 EDT">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="9930" started-at="2022-08-31T20:31:25 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T20:31:34 EDT">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="4102" started-at="2022-08-31T16:46:21 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T16:46:26 EDT">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="4877" started-at="2022-08-31T20:31:34 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T20:31:39 EDT">
           <params>
             <param index="0">
               <value>
@@ -115,7 +115,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="9760" started-at="2022-08-31T16:46:26 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T16:46:35 EDT">
+        <test-method status="PASS" signature="scenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="scenario" duration-ms="9909" started-at="2022-08-31T20:31:39 EDT" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-08-31T20:31:49 EDT">
           <params>
             <param index="0">
               <value>
@@ -131,7 +131,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="tearDownClass" is-config="true" duration-ms="2842" started-at="2022-08-31T16:46:35 EDT" finished-at="2022-08-31T16:46:38 EDT">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.qa.runners.SonyTestNGRunnerTest@7d70d1b1]" name="tearDownClass" is-config="true" duration-ms="2788" started-at="2022-08-31T20:31:49 EDT" finished-at="2022-08-31T20:31:52 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
