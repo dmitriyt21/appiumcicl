@@ -39,7 +39,7 @@ public class ServerManager {
                 .usingAnyFreePort()
                 .withAppiumJS(
                         new File(
-                                "C:\\Users\\dtougov\\AppData\\Roaming\\npm\\node_modules\\appium\\lib\\appium.js"))
+                                "C:\\Users\\dtougov\\AppData\\Roaming\\npm\\node_modules\\appium\\build\\lib\\main.js"))
 //                .withAppiumJS(
 //                        new File(
 //                                "/usr/local/lib/node_modules/appium/bin/main.js"))
