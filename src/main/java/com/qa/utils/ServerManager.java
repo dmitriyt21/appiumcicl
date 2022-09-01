@@ -37,6 +37,13 @@ public class ServerManager {
         GlobalParams params = new GlobalParams();
         return AppiumDriverLocalService.buildService(new AppiumServiceBuilder()
                 .usingAnyFreePort()
+                .withAppiumJS(
+                        new File(
+                                "C:\\Users\\dtougov\\AppData\\Roaming\\npm\\node_modules\\appium\\lib\\appium.js"))
+//                .withAppiumJS(
+//                        new File(
+//                                "/usr/local/lib/node_modules/appium/bin/main.js"))
+//                .usingDriverExecutable(new File("/usr/local/bin/node"))
                 .withArgument(GeneralServerFlag.SESSION_OVERRIDE)
                 .withLogFile(new File(params.getPlatformName() + "_"
                         + params.getDeviceName() + File.separator + "Server.log")));
