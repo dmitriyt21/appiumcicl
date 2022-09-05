@@ -1,7 +1,7 @@
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\GlobalParams.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\PropertyManager.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\ServerManager.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\DriverManager.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\CapabilitiesManager.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\VideoManager.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\main\java\com\qa\utils\TestUtils.java
+/appiumcicl/src/main/java/com/qa/utils/GlobalParams.java
+/appiumcicl/src/main/java/com/qa/utils/ServerManager.java
+/appiumcicl/src/main/java/com/qa/utils/PropertyManager.java
+/appiumcicl/src/main/java/com/qa/utils/VideoManager.java
+/appiumcicl/src/main/java/com/qa/utils/DriverManager.java
+/appiumcicl/src/main/java/com/qa/utils/CapabilitiesManager.java
+/appiumcicl/src/main/java/com/qa/utils/TestUtils.java

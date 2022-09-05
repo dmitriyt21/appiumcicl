@@ -1,15 +1,15 @@
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\MenuPage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\MyPixel2XLTestNGRunnerTest.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\ProductDetailsPage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\MyRunnerTest.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\stepdef\Hooks.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\stepdef\ProductStepDef.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\Sm910TestNGRunnerTest.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\SonyTestNGRunnerTest.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\stepdef\LoginStepDef.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\RunnerBase.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\BasePage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\LoginPage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\ProductsPage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\pages\SettingsPage.java
-C:\Users\dtougov\OneDrive - QA Consultants\Desktop\appiumcicl\src\test\java\com\qa\runners\MyPixel3TestNGRunnerTest.java
+/appiumcicl/src/test/java/com/qa/stepdef/LoginStepDef.java
+/appiumcicl/src/test/java/com/qa/runners/RunnerBase.java
+/appiumcicl/src/test/java/com/qa/pages/ProductDetailsPage.java
+/appiumcicl/src/test/java/com/qa/runners/MyPixel2XLTestNGRunnerTest.java
+/appiumcicl/src/test/java/com/qa/runners/MyRunnerTest.java
+/appiumcicl/src/test/java/com/qa/runners/Sm910TestNGRunnerTest.java
+/appiumcicl/src/test/java/com/qa/runners/MyPixel3TestNGRunnerTest.java
+/appiumcicl/src/test/java/com/qa/runners/SonyTestNGRunnerTest.java
+/appiumcicl/src/test/java/com/qa/pages/MenuPage.java
+/appiumcicl/src/test/java/com/qa/pages/ProductsPage.java
+/appiumcicl/src/test/java/com/qa/pages/LoginPage.java
+/appiumcicl/src/test/java/com/qa/stepdef/Hooks.java
+/appiumcicl/src/test/java/com/qa/pages/BasePage.java
+/appiumcicl/src/test/java/com/qa/stepdef/ProductStepDef.java
+/appiumcicl/src/test/java/com/qa/pages/SettingsPage.java

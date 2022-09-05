@@ -4,7 +4,7 @@
   <test thread-count="5" verbose="0" name="sony(failed)" parallel="tests">
     <parameter name="chromeDriverPort" value="11000"/>
     <parameter name="platformName" value="Android"/>
-    <parameter name="udid" value="CB5A29JXTK"/>
+    <parameter name="udid" value="10.0.0.110:5555"/>
     <parameter name="deviceName" value="sony"/>
     <parameter name="systemPort" value="10000"/>
     <classes>
