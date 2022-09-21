@@ -28,7 +28,8 @@ public class CapabilitiesManager {
                     caps.setCapability("appActivity", props.getProperty("androidAppActivity"));
                     caps.setCapability("systemPort", params.getSystemPort());
                     caps.setCapability("chromeDriverPort", params.getChromeDriverPort());
-                    //String androidAppUrl = getClass().getResource(props.getProperty("androidAppLocation")).getFile();
+                    // open this row if it's needed to connect to the host connected phones (including emulated)
+                    // caps.setCapability("remoteAdbHost", "host.docker.internal");
                     String androidAppUrl = System.getProperty("user.dir") + File.separator + "src" + File.separator + "test"
                             + File.separator + "resources" + File.separator + "apps" + File.separator + "Android.SauceLabs.Mobile.Sample.app.2.7.1.apk";
                     utils.log().info("appUrl is" + androidAppUrl);
