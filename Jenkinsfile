@@ -20,8 +20,8 @@ node (label: 'this_pc1'){
    }
   stage('start test') {
             
-                 bat ''' adb connect 10.0.0.110:5555 && cd git_repo && mvn test'''
-           
+                 bat ''' cd git_repo && mvn test'''
+           //adb connect 10.0.0.110:5555 &&
          }
 //   stage('run katalon container') {
             
