@@ -18,12 +18,11 @@ node (label: 'this_pc1'){
       bat 'chdir git_repo'
       bat 'dir'
    }
-//   stage('start selenium grid') {
+  stage('start test') {
             
-//                  bat '''cd C:\\Users\\user\\Desktop\\katalon_dockers
-//                      docker-compose up -d hub chrome firefox --force-recreate'''
+                 bat '''mvn test'''
            
-//          }
+         }
 //   stage('run katalon container') {
             
 //                  bat '''cd C:\\Users\\user\\Desktop\\katalon_dockers
