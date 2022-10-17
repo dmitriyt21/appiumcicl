@@ -4,7 +4,7 @@
 	<test name="sony">
 		<parameter name="platformName" value="Android" />
 		<!-- name of the phone emulated or real as it appears in "adb devices" command tool -->
-		<parameter name="udid" value="emulator-5554" />
+		<parameter name="udid" value="CB5A29JXTK" />
 		<!-- optional -->
 		<parameter name="deviceName" value="sony" />
 		<parameter name="systemPort" value="10000" />
