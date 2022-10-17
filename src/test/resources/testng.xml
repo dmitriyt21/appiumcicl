@@ -4,8 +4,8 @@
 	<test name="sony">
 		<parameter name="platformName" value="Android" />
 		<!-- name of the phone emulated or real as it appears in "adb devices" command tool -->
-		<!--		<parameter name="udid" value="CB5A29JXTK" />-->
-		<parameter name="udid" value="10.0.0.110:5555" />
+				<parameter name="udid" value="CB5A29JXTK" />
+<!-- 		<parameter name="udid" value="10.0.0.110:5555" /> -->
 
 		<!-- optional -->
 		<parameter name="deviceName" value="sony" />
